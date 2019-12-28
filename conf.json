@@ -1,0 +1,9 @@
+{
+	"maxplayers" : 10,
+	"name" : "UntamedHero|Mapping Server", 
+	"gamemode" : "freeroam", 
+	"stream-distance" : 500.0,
+	"announce" : true,
+	"csharp" : "enabled",
+	"port": 22005
+}
